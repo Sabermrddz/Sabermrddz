@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,100:7209B7&height=220&section=header&text=Hi%20there,%20I'm%20Saber%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Automation%20Enthusiast&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,100:7209B7&height=220&section=header&text=Hi%20there,%20I'm%20Saber%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20and%20Automation%20Enthusiast&descAlignY=55&descSize=18" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Building+with+Python+%26+Django;Exploring+AI+%2F+Chatbots;Automating+everything+I+can;Always+learning+something+new" alt="Typing SVG" />
 
