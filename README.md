@@ -24,21 +24,21 @@
 
 ## 🚀 Featured Projects
 
-<a href="https://github.com/Sabermrddz/Real-estate-agency"><img height="150em" src="https://github-readme-stats-sigma-eight-47.vercel.app/api/pin/?username=Sabermrddz&repo=Real-estate-agency&theme=radical&hide_border=true" /></a>
-<a href="https://github.com/Sabermrddz/IA-CHAT-BOT-"><img height="150em" src="https://github-readme-stats-sigma-eight-47.vercel.app/api/pin/?username=Sabermrddz&repo=IA-CHAT-BOT-&theme=radical&hide_border=true" /></a>
+<a href="https://github.com/Sabermrddz/Real-estate-agency"><img height="150em" src="https://github-readme-stats-chi-lac-23.vercel.app/api/pin/?username=Sabermrddz&repo=Real-estate-agency&theme=radical&hide_border=true" /></a>
+<a href="https://github.com/Sabermrddz/IA-CHAT-BOT-"><img height="150em" src="https://github-readme-stats-chi-lac-23.vercel.app/api/pin/?username=Sabermrddz&repo=IA-CHAT-BOT-&theme=radical&hide_border=true" /></a>
 
-<a href="https://github.com/Sabermrddz/ProgressOBServer"><img height="150em" src="https://github-readme-stats-sigma-eight-47.vercel.app/api/pin/?username=Sabermrddz&repo=ProgressOBServer&theme=radical&hide_border=true" /></a>
-<a href="https://github.com/Sabermrddz/telegram-slack-migrator"><img height="150em" src="https://github-readme-stats-sigma-eight-47.vercel.app/api/pin/?username=Sabermrddz&repo=telegram-slack-migrator&theme=radical&hide_border=true" /></a>
+<a href="https://github.com/Sabermrddz/ProgressOBServer"><img height="150em" src="https://github-readme-stats-chi-lac-23.vercel.app/api/pin/?username=Sabermrddz&repo=ProgressOBServer&theme=radical&hide_border=true" /></a>
+<a href="https://github.com/Sabermrddz/telegram-slack-migrator"><img height="150em" src="https://github-readme-stats-chi-lac-23.vercel.app/api/pin/?username=Sabermrddz&repo=telegram-slack-migrator&theme=radical&hide_border=true" /></a>
 
-<a href="https://github.com/Sabermrddz/QuantCore-FX"><img height="150em" src="https://github-readme-stats-sigma-eight-47.vercel.app/api/pin/?username=Sabermrddz&repo=QuantCore-FX&theme=radical&hide_border=true" /></a>
-<a href="https://github.com/Sabermrddz/Distributed-database-design-for-organizing-a-cultural-trip"><img height="150em" src="https://github-readme-stats-sigma-eight-47.vercel.app/api/pin/?username=Sabermrddz&repo=Distributed-database-design-for-organizing-a-cultural-trip&theme=radical&hide_border=true" /></a>
+<a href="https://github.com/Sabermrddz/QuantCore-FX"><img height="150em" src="https://github-readme-stats-chi-lac-23.vercel.app/api/pin/?username=Sabermrddz&repo=QuantCore-FX&theme=radical&hide_border=true" /></a>
+<a href="https://github.com/Sabermrddz/Distributed-database-design-for-organizing-a-cultural-trip"><img height="150em" src="https://github-readme-stats-chi-lac-23.vercel.app/api/pin/?username=Sabermrddz&repo=Distributed-database-design-for-organizing-a-cultural-trip&theme=radical&hide_border=true" /></a>
 
 <br/><br/>
 
 ## 📊 GitHub Stats
 
-<img height="165em" src="https://github-readme-stats-sigma-eight-47.vercel.app/api?username=Sabermrddz&show_icons=true&theme=radical&hide_border=true" />
-<img height="165em" src="https://github-readme-stats-sigma-eight-47.vercel.app/api/top-langs/?username=Sabermrddz&layout=compact&theme=radical&hide_border=true" />
+<img height="165em" src="https://github-readme-stats-chi-lac-23.vercel.app/api?username=Sabermrddz&show_icons=true&theme=radical&hide_border=true" />
+<img height="165em" src="https://github-readme-stats-chi-lac-23.vercel.app/api/top-langs/?username=Sabermrddz&layout=compact&theme=radical&hide_border=true" />
 
 <br/><br/>
 
