@@ -24,12 +24,21 @@
 
 ## 🚀 Featured Projects
 
-- 🔹 [Real-estate-agency](https://github.com/Sabermrddz/Real-estate-agency) — Web platform for managing real estate listings
-- 🔹 [IA-CHAT-BOT](https://github.com/Sabermrddz/IA-CHAT-BOT-) — AI-powered chatbot built with Python
-- 🔹 [ProgressOBServer](https://github.com/Sabermrddz/ProgressOBServer) — Tracking & monitoring tool
-- 🔹 [telegram-slack-migrator](https://github.com/Sabermrddz/telegram-slack-migrator) — Bot to migrate messages between Telegram and Slack
-- 🔹 [QuantCore-FX](https://github.com/Sabermrddz/QuantCore-FX) — Forex analysis / trading core
-- 🔹 [Distributed-database-design](https://github.com/Sabermrddz/Distributed-database-design-for-organizing-a-cultural-trip) — Distributed DB design project
+<a href="https://github.com/Sabermrddz/Real-estate-agency"><img height="150em" src="https://github-readme-stats-sigma-eight-47.vercel.app/api/pin/?username=Sabermrddz&repo=Real-estate-agency&theme=radical&hide_border=true" /></a>
+<a href="https://github.com/Sabermrddz/IA-CHAT-BOT-"><img height="150em" src="https://github-readme-stats-sigma-eight-47.vercel.app/api/pin/?username=Sabermrddz&repo=IA-CHAT-BOT-&theme=radical&hide_border=true" /></a>
+
+<a href="https://github.com/Sabermrddz/ProgressOBServer"><img height="150em" src="https://github-readme-stats-sigma-eight-47.vercel.app/api/pin/?username=Sabermrddz&repo=ProgressOBServer&theme=radical&hide_border=true" /></a>
+<a href="https://github.com/Sabermrddz/telegram-slack-migrator"><img height="150em" src="https://github-readme-stats-sigma-eight-47.vercel.app/api/pin/?username=Sabermrddz&repo=telegram-slack-migrator&theme=radical&hide_border=true" /></a>
+
+<a href="https://github.com/Sabermrddz/QuantCore-FX"><img height="150em" src="https://github-readme-stats-sigma-eight-47.vercel.app/api/pin/?username=Sabermrddz&repo=QuantCore-FX&theme=radical&hide_border=true" /></a>
+<a href="https://github.com/Sabermrddz/Distributed-database-design-for-organizing-a-cultural-trip"><img height="150em" src="https://github-readme-stats-sigma-eight-47.vercel.app/api/pin/?username=Sabermrddz&repo=Distributed-database-design-for-organizing-a-cultural-trip&theme=radical&hide_border=true" /></a>
+
+<br/><br/>
+
+## 📊 GitHub Stats
+
+<img height="165em" src="https://github-readme-stats-sigma-eight-47.vercel.app/api?username=Sabermrddz&show_icons=true&theme=radical&hide_border=true" />
+<img height="165em" src="https://github-readme-stats-sigma-eight-47.vercel.app/api/top-langs/?username=Sabermrddz&layout=compact&theme=radical&hide_border=true" />
 
 <br/><br/>
 
