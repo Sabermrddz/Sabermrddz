@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,100:7209B7&height=220&section=header&text=Hi%20there,%20I'm%20Saber%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI%20%26%20Automation%20Enthusiast&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,100:7209B7&height=220&section=header&text=Hi%20there,%20I'm%20Saber%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Automation%20Enthusiast&descAlignY=55&descSize=18" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Building+with+Python+%26+Django;Exploring+AI+%2F+Chatbots;Automating+everything+I+can;Always+learning+something+new" alt="Typing SVG" />
 
@@ -8,15 +8,11 @@
 
 ## 🧑‍💻 About Me
 
-🎯&nbsp; Currently building tools around **automation, AI chatbots, and web platforms**
-<br/>
-🌱&nbsp; Learning and improving my skills in **web development & applied AI**
-<br/>
-🤝&nbsp; Open to collaborating on interesting **backend / automation / AI** projects
-<br/>
-📫&nbsp; Reach me through the links below
-<br/>
-⚡&nbsp; Fun fact: I'd rather build a bot to do it once than do it twice by hand
+🎯 Currently building tools around automation, AI chatbots, and web platforms  
+🌱 Learning and improving my skills in web development & applied AI  
+🤝 Open to collaborating on interesting backend / automation / AI projects  
+📫 Reach me through the links below  
+⚡ Fun fact: I'd rather build a bot to do it once than do it twice by hand
 
 <br/>
 
@@ -28,25 +24,12 @@
 
 ## 🚀 Featured Projects
 
-<a href="https://github.com/Sabermrddz/Real-estate-agency"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Sabermrddz&repo=Real-estate-agency&theme=radical&hide_border=true" /></a>
-<a href="https://github.com/Sabermrddz/IA-CHAT-BOT-"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Sabermrddz&repo=IA-CHAT-BOT-&theme=radical&hide_border=true" /></a>
-
-<a href="https://github.com/Sabermrddz/ProgressOBServer"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Sabermrddz&repo=ProgressOBServer&theme=radical&hide_border=true" /></a>
-<a href="https://github.com/Sabermrddz/telegram-slack-migrator"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Sabermrddz&repo=telegram-slack-migrator&theme=radical&hide_border=true" /></a>
-
-<a href="https://github.com/Sabermrddz/QuantCore-FX"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Sabermrddz&repo=QuantCore-FX&theme=radical&hide_border=true" /></a>
-<a href="https://github.com/Sabermrddz/Distributed-database-design-for-organizing-a-cultural-trip"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Sabermrddz&repo=Distributed-database-design-for-organizing-a-cultural-trip&theme=radical&hide_border=true" /></a>
-
-<br/><br/>
-
-## 📊 GitHub Stats
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Sabermrddz&show_icons=true&theme=radical&hide_border=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabermrddz&layout=compact&theme=radical&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabermrddz&theme=radical&hide_border=true" />
+- 🔹 [Real-estate-agency](https://github.com/Sabermrddz/Real-estate-agency) — Web platform for managing real estate listings
+- 🔹 [IA-CHAT-BOT](https://github.com/Sabermrddz/IA-CHAT-BOT-) — AI-powered chatbot built with Python
+- 🔹 [ProgressOBServer](https://github.com/Sabermrddz/ProgressOBServer) — Tracking & monitoring tool
+- 🔹 [telegram-slack-migrator](https://github.com/Sabermrddz/telegram-slack-migrator) — Bot to migrate messages between Telegram and Slack
+- 🔹 [QuantCore-FX](https://github.com/Sabermrddz/QuantCore-FX) — Forex analysis / trading core
+- 🔹 [Distributed-database-design](https://github.com/Sabermrddz/Distributed-database-design-for-organizing-a-cultural-trip) — Distributed DB design project
 
 <br/><br/>
 
